@@ -14,7 +14,7 @@ ENDCLASS.
 CLASS z_challenge_week_1 IMPLEMENTATION.
 
   METHOD hello.
-    result = 'Hello World!'.
+    result = 'Hello World.'.
   ENDMETHOD.
 
 ENDCLASS.
